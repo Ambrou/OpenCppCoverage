@@ -1,0 +1,13 @@
+ASSERT : tetris use a null pointer in the File ..\..\..\TeTriS\XsUi\DialogLutBar.cpp  at the line 482
+ASSERT : tetris use a null pointer in the File ..\..\..\TeTriS\XsUi\DialogLutBar.cpp  at the line 426
+ASSERT : tetris use a null pointer in the File ..\..\..\TeTriS\XsUi\DialogLutBar.cpp  at the line 426
+ASSERT : tetris use a null pointer in the File ..\..\..\TeTriS\XsUi\DialogLutBar.cpp  at the line 482
+ASSERT : tetris use a null pointer in the File ..\..\..\TeTriS\XsUi\XsUi.cpp  at the line 4952
+ASSERT : tetris use a null pointer in the File ..\..\..\TeTriS\XsUi\VisuView.cpp  at the line 725
+ASSERT : tetris use a null pointer in the File ..\..\..\TeTriS\XsUi\VisuView.cpp  at the line 727
+ASSERT : tetris use a null pointer in the File ..\..\..\TeTriS\XsUi\VisuView.cpp  at the line 735
+ASSERT : tetris use a null pointer in the File ..\..\..\TeTriS\XsUi\VisuView.cpp  at the line 132
+ASSERT : tetris use a null pointer in the File ..\..\..\TeTriS\XsUi\VisuView.cpp  at the line 132
+ASSERT : tetris use a null pointer in the File c:\ambroise\dev\tetris\dev\tetris\xsui\tcl\TclInterpreter.tpp  at the line 34
+ASSERT : tetris use a null pointer in the File c:\ambroise\dev\tetris\dev\tetris\xsui\tcl\TclInterpreter.tpp  at the line 34
+ASSERT : tetris use a null pointer in the File c:\ambroise\dev\tetris\dev\tetris\xsui\tcl\TclInterpreter.tpp  at the line 34
